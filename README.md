@@ -8,13 +8,13 @@ Follow these steps to get the Pydew-Valley up and running:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/Ezte27/Pydew-Valley.git
+    git clone https://github.com/Ezte27/Zelda2D.git
     ```
 
 2. Install the required dependencies:
 
     ```bash
-    pip install pygame pytmx
+    pip install pygame
     ```
 
 3. Run the simulator:
@@ -25,7 +25,6 @@ Follow these steps to get the Pydew-Valley up and running:
 ## Controls
 
 Exit game: ctrl+c  
-Interact: Enter  
   
 **Player movement:**  
 &emsp;Forward: w or up key  
@@ -33,17 +32,9 @@ Interact: Enter
 &emsp;Right: d or right key  
 &emsp;Left: a or left key 
   
-**Tools:**  
-&emsp;Use tool: space bar  
-&emsp;Change tool: q  
-  
-**Seeds:**  
-&emsp;Plant seed: 1  
-&emsp;Change seed: e  
-  
-**Menu:**  
-&emsp;Open menu: Esc  
-&emsp;Movement: up and down keys  
-&emsp;Toggle trade option: space bar  
-&emsp;Buy or sell: Enter  
-
+**Weapons:**  
+&emsp;Attack: space bar  
+&emsp;Change weapon: q  
+    
+**Menu (Unfinished):**  
+&emsp;Open menu: m 
