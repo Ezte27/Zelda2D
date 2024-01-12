@@ -1,5 +1,4 @@
 from config import *
-from msilib.schema import Directory
 import os
 import pygame
 
